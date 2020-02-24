@@ -1,0 +1,3 @@
+name: vpn-inator
+runtime: nodejs
+description: Proof-of-concept vpn server

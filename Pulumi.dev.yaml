@@ -1,0 +1,5 @@
+config:
+  aws:region: us-west-1
+  cloud-aws:ecsAutoCluster: "true"
+  cloud-aws:useFargate: "false"
+  cloud:provider: aws
